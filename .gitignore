@@ -1,0 +1,10 @@
+.obsidian/           # Obsidian workspace settings (optional, unless you want to sync settings)
+.trash/              # Obsidian trash
+.vscode/             # VS Code settings
+conflict-files-obsidian-git.md
+icon
+.DS_Store            # macOS system file
+Thumbs.db            # Windows system file
+*.log                # Log files
+node_modules/        # If you use plugins with Node.js dependencies
+*.bak                # Backup files
