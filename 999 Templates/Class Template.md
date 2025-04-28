@@ -1,0 +1,5 @@
+---
+Class: 
+Date: "{{Date}}"
+Topic:
+---
