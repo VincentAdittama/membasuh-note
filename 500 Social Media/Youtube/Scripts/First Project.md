@@ -3,6 +3,17 @@ Title: Can Memes Make Music Good?
 ---
 
 # Pre-Writing
+## Ideas Channels
+### Basic
+
+- https://youtube.com/@ownerscloset
+- https://youtube.com/@whoisalastair
+- https://youtube.com/@grantrudow
+- https://www.youtube.com/@golfcartmedia
+
+### Advanced
+
+- https://www.youtube.com/@braintruffle
 
 ## Possible Title
 
