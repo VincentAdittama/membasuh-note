@@ -10,7 +10,9 @@ Title: Can Memes Make Music Good?
 - https://youtube.com/@whoisalastair
 - https://youtube.com/@grantrudow
 - https://www.youtube.com/@golfcartmedia
-
+- https://www.youtube.com/@tohruthebeginner
+- https://www.youtube.com/@RAODYfr
+- 
 ### Advanced
 
 - https://www.youtube.com/@braintruffle
@@ -46,15 +48,21 @@ Title: Can Memes Make Music Good?
 
 ## Topic
 
-Can Memes Make Music Good? An Investigation.
+Why you (and me) are lazy to start making music?
 
 ## Voiceover Text
+### Hook
+You clicked on this video because of one thing that's I'm sure of we have in common, we are bored.
+"Erm, actually, I just need some rest, I'm on my way to continue my beat making"
 
-- Intro Catchphrase [Look]
+Now I'm here to make you comfortable in this state of being lazy.
+Let me cherry pick of some stories that makes your music journey seems awful and not worth it.
 
-It's within the nature of us the internet {travelers} to be {something} in the culture of the internet.
+If you are looking for that, buckle up because you need to watch this video until the end, because let's face it—making music is hard.
 
-Meme influence onthe internet is as comically used in terms of socializing. relation with other user.
+Why is it hard exactly?
+If you just starting this journey
+You body is being scared
 
-This game of as to be as relatable as possible is not new and it is {something}
 
+Aud: "Yeah, I consumed great songs all the time, then why is my brain can't recreate one of these?"
