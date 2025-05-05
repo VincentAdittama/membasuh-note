@@ -1,101 +1,101 @@
-# INTRODUKSI
+# Introduksi
 
-- REAKSI TERHADAP EKSES ROMANTIK DAN NEO ROMANTIK
-  - SUPERSTRUKTUR
-  - OVEREMOSIONALISME
-  - PROGRAM-PROGRAM EKSTRA MUSIKAL
-  - FILOSOFI
-- PENINGKATAN TENDENSI TERHADAP EKSPERIMENTASI GAYA, TEKNIK, IDIOM BARU
-- BBERAPA KOMPOSER MENINGGALKAN TRADISI ROMANTIK, SEMENTARA YANG LAINNYA KEMBALI KE GAYA DAN STRUKTUR KLASIK
+- Reaksi terhadap ekses romantik dan neo romantik
+  - Superstruktur
+  - Overemosionalisme
+  - Program-program ekstra musikal
+  - Filosofi
+- Peningkatan tendensi terhadap eksperimentasi gaya, teknik, idiom baru
+- Beberapa komposer meninggalkan tradisi romantik, sementara yang lainnya kembali ke gaya dan struktur klasik
 
-# IMPRESIONISME
+# Impresionisme
 
-- PENEKANAN TIDAK PADA KARYA MUSIK TAPI EMOSI ATAU SENSASI YANG DIBANGKITKAN OLEH SUBJEK
-- NUANSA, KERINGANAN, WARNA, MOOD, ATMOSFIR LEBIH DIUTAMAKAN DARIPADA BENTUK DAN SUBSTANSI
-  - DEBUSSY (1862-1918):
-  - DELIUS (1862-1934):
-  - RAVEL (1875-1937)
+- Penekanan tidak pada karya musik tapi emosi atau sensasi yang dibangkitkan oleh subjek
+- Nuansa, keringanan, warna, mood, atmosfir lebih diutamakan daripada bentuk dan substansi
+  - Debussy (1862-1918)
+  - Delius (1862-1934)
+  - Ravel (1875-1937)
 
-# EKSPRESIONISME
+# Ekspresionisme
 
-- ESENSI DARI SEBUAH SUBJEK MUSIKAL ATAU IDE DIDATANGKAN MELALUI ABSTRAKSI.
-- ATONALITAS: MENGHINDARI KUNCI DASAR ATAU TONALITAS
-- TWELVE-TONE SYSTEM: SEBUAH KARYA DIBANGUN DARI SEDERETAN DUABELAS NADA, YANG MASING-MASING MEMILIKI KEPENTINGAN YANG SEIMBANG, DAN MENURUT ATURAN TERTENTU.
-  - SCHOENBERG (1874-1951)
-  - BERG (1885-1935)
+- Esensi dari sebuah subjek musikal atau ide didatangkan melalui abstraksi
+- Atonalitas: Menghindari kunci dasar atau tonalitas
+- Twelve-tone system: Sebuah karya dibangun dari sederetan duabelas nada, yang masing-masing memiliki kepentingan yang seimbang, dan menurut aturan tertentu
+  - Schoenberg (1874-1951)
+  - Berg (1885-1935)
 
-# NEO-KLASIKISME
+# Neo-Klasikisme
 
-- KEMBALINYA KE BENTUK-BENTUK DAN TEKNIK-TEKNIK YANG LAMA DAN PADA SAAT YANG SAMA MENCARI KEMURNIAN, KESEDERHANAAN, DAN OBJEKTIVITAS.
-  - STRAVINSKY (1882-)
-  - RESPIGHI (1879-1936)
-  - HINDEMITH (1895-)
-  - ROUSSEL (1869-1937)
+- Kembalinya ke bentuk-bentuk dan teknik-teknik yang lama dan pada saat yang sama mencari kemurnian, kesederhanaan, dan objektivitas
+  - Stravinsky (1882-)
+  - Respighi (1879-1936)
+  - Hindemith (1895-)
+  - Roussel (1869-1937)
 
-# DINAMISME
+# Dinamisme
 
-- MENEKANKAN RTMIK-RITMIK PRIMITIF DAN KEKUATAN DINAMIS MUSIK PRIMITIF DALAM BENTUK-BENTUK YANG RUMIT.
-  - STRAVINSKY (1882-)
-  - PROKOFIEV (1891-1953)
+- Menekankan ritmik-ritmik primitif dan kekuatan dinamis musik primitif dalam bentuk-bentuk yang rumit
+  - Stravinsky (1882-)
+  - Prokofiev (1891-1953)
 
-# NASIONALISME
+# Nasionalisme
 
-- MEMBAWA NASIONALISME NEGARA TERTENTU
+- Membawa nasionalisme negara tertentu
   - Armenia: Khatchaturian (1903-)
-  - Bohemia: Martinu (1890-). Weinberger (1896-)
+  - Bohemia: Martinu (1890-), Weinberger (1896-)
   - Brazil: Villa Lobos (1887-)
   - England: Vaughan Williams (1872-)
   - Finland: Sibelius (1865-)
   - Hebrew: Bloch (1880-)
-  - Hungary: Bartok (1881-1945), Kodaly (1882-), Dohnanyi (1877-).
+  - Hungary: Bartok (1881-1945), Kodaly (1882-), Dohnanyi (1877-)
   - Mexico: Chavez
   - Moravia: Janacek (1854-1928)
   - Poland: Szymanowski (1883-1937)
   - Rumania: Enesco (1881-)
-  - Spain: Falla (1876-1946): Turina (1882-1949)
-  - United States: Cowell (1897-), : Ives (1874-1954); Copland (1900-)
+  - Spain: Falla (1876-1946), Turina (1882-1949)
+  - United States: Cowell (1897-), Ives (1874-1954), Copland (1900-)
 
-# POPULARISME
+# Popularisme
 
-- SEBAGAI DAMPAK MUSIK NASIONALISTIK TERDAPAT MUSIK YANG IDIOM-IDIOMNYA DIAMBIL DARI TEKNIK DAN GAYA MUSIK POPULER.
+- Sebagai dampak musik nasionalistik terdapat musik yang idiom-idiomnya diambil dari teknik dan gaya musik populer
   - Villa-Lobos (1887-)
   - Grofe (1892-)
   - Gershwin (1898-1937)
   - Gould (1913-)
   - Copland (1900-)
 
-# MUSIK PROLETARIAN
+# Musik Proletarian
 
-- KESADARAN MENULIS MUSIK UNTUK MASA, MEREFLEKSIKAN MINAT-MINAT DAN IDEOLOGI DASAR MASYARAKAT.
-  - SUKSES DI UNI SOVIET
+- Kesadaran menulis musik untuk masa, merefleksikan minat-minat dan ideologi dasar masyarakat
+  - Sukses di Uni Soviet
   - Shostakovitch (1906-)
   - Kabalevsky (1904-)
   - Prokofiev (1891-1953)
   - Miaskovsky (1881-1950)
   - Gliere (1875-)
 
-# NEO-BAROK
+# Neo-Barok
 
-- KEMBALI KE TEKNIK-TEKNIK KONTRAPUNG ABAD KEENAMBELAS DAN KETUJUH BELAS
+- Kembali ke teknik-teknik kontrapung abad keenambelas dan ketujuh belas
 - Hindemith (1895-)
 - Harris (1898-)
 
-# NEO MISTISISME
+# Neo Mistisisme
 
-- KOMBINASI SUATU PROGRAM MISTIS ATAU FILOSOFIS DENGAN MUSIK YANG SECARA ESENSIAL BERKARAKTER WAGNERIAN ATAU ROMANTIK
+- Kombinasi suatu program mistis atau filosofis dengan musik yang secara esensial berkarakter Wagnerian atau Romantik
   - Scriabin (1872-1915)
   - Messiaen (1908-)
 
-# ROMANTISISME
+# Romantisisme
 
 - Saint-Saens (1835-1921)
 - Glazunov (1865-1936)
 - Rachmaninoff (1873-1943)
 - Schmift (1870-)
 - Hanson (1896-)
-- Barber (1910)
+- Barber (1910-)
 
-# REALISME
+# Realisme
 
 - Richard Strauss (1864-1949) - opera-opera pada fase kedua
 - Respighi (1879-1936) - fase awal
