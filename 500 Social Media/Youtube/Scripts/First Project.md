@@ -55,12 +55,12 @@ Why you (and me) are lazy to finish your music? (Cherry Pick Series ep. 1)
 
 You clicked on this video because of one thing that I'm absolutely certain we have in common: we're avoiding finishing our music.
 Aud: "Erm, actually, I just need some rest, I'm on my way to continue my beat making"
-No you don't! I know deep down you're resisting the work. That dream of making the absolute fire beat? It's just in your mind. It's only you who thinks the beat is fire. See, you haven't finished it yet, right? So don't expect or think about publishing it. You're just cherry-picking the exciting parts of music production while avoiding the hard work.
+Oh PLEASE! Stop with the excuses! That "fire beat" you keep bragging about? It's nothing but hot air because you're too scared to actually finish it. Face it - you're paralyzed by fear, hiding behind "taking breaks" instead of doing the work. Until you actually complete something, keep those dreams of publishing to yourself.
 
 ### Transition to nice guy
 
 Hey there. I know it's hard to finish your song, and I'm here to make you comfortable in this state of being lazy by cherry-picking all the reasons why you'll never finish.
-Because let's face it—making music is hard, and I'm going to selectively highlight all the worst parts.
+Because let's face it—making music is hard, and I'm going to selectively highlight all the worst parts to give you insight into why you'll probably never finish anything worthwhile, and why you should just give up now
 
 ### Fun song
 
