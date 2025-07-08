@@ -55,7 +55,7 @@ Why you (and me) are lazy to finish your music? (Cherry Pick Series ep. 1)
 
 You clicked on this video because of one thing that I'm absolutely certain we have in common: we're avoiding finishing our music.
 Aud: "Erm, Actually, I'm just waiting for inspiration to strike before I finish this track"
-Oh PLEASE! Stop with the excuses! That "fire beat" you keep bragging about? It's nothing but hot air because you're too scared to actually finish it. Face it - you're paralyzed by fear, hiding behind "taking breaks" instead of doing the work. Until you actually export a finished WAV file, keep those Spotify fantasies buried in your project folder with the other 47 abandoned beats.
+Oh PLEASE! Stop with the excuses! That "fire beat" you keep bragging about? It's nothing but an abandoned dream because you're too scared to actually finish it. Face it - you're paralyzed by fear, hiding behind "taking breaks" instead of doing the work. Until you actually export to a finished WAV file, keep those Spotify fantasies buried in your project folder with the other 47 abandoned beats.
 
 ### Transition to nice guy
 
@@ -66,20 +66,20 @@ Because let's face it—making music is hard, and throughout this video, I'm goi
 ### Fun song
 
 Welcome to the first Cherry Pick episode. This series is dedicated to cherry-picking all the worst aspects of the music world—to make your music journey seem awful and not worth it. So you might consider pivoting to Finance, Computer Science, Energy, or anything else other than this.
-Okay friend—let's start by defining _what is_ 'cherry picking'
+Okay friend—let's start by defining what 'cherry picking' is
 
 > **Cherry Picking (n.)** — A cognitively disingenuous heuristic maneuver wherein an individual, either through conscious rhetorical strategy or unconscious epistemic bias, selectively extracts anomalous or supportive data points from a broader evidentiary continuum to construct an artificially coherent narrative that aligns with a predetermined ideological, theoretical, or argumentative objective. This methodological sleight of hand involves the deliberate or negligent omission of contradictory or contextually significant information, thereby distorting the ontological integrity of the discourse and manufacturing a pseudo-consensus within an otherwise probabilistically diverse informational landscape.
 
-I hope you don't miss the part where I said "**Cherry picking** is when someone only picks the good or easy parts that help them win an argument and ignores all the other stuff that might make them wrong." And that's exactly what I'm doing here—except I'm cherry-picking all the WORST parts of music production to convince you it's hopeless.
+I hope you don't miss the part where I said "**Cherry picking** is when someone only picks the good or easy parts that help them win an argument and ignores all the other stuff that might make them wrong."
 
 ### Making Music is Scary Hard (And It Never Gets Easier)
 
-Why is it hard exactly?
+Why is it hard, exactly?
 If you're just starting this journey, your body is literally in fight-or-flight mode. Your brain is like:
 
 _[Deep voice effect]_ "WARNING! WARNING! CREATIVE ATTEMPT DETECTED! INITIATE SELF-DOUBT PROTOCOL! ACTIVATE CRUSHING EXISTENTIAL DREAD!"
 
-Aud: "Yeah, I consumed great songs all the time, then why is my brain can't recreate one of these?"
+Aud: "Yeah, I consumed great songs all the time, then why can't my brain recreate one of these?"
 
 Excellent question, my friend! It's because your brain is a lying piece of garbage collector. It's cherry-picking only the finished products you hear, while conveniently ignoring the struggle behind them. It's like that one friend who says they'll help you move but then suddenly "remembers" they have a very important appointment with their goldfish's therapist.
 
